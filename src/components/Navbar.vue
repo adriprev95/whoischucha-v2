@@ -16,7 +16,7 @@
           <a class="cursor-pointer" @click="navigateToSection('estados')">Estados</a>
         </li>
         <li class="inline-block transition ease-in-out delay-150 hover:scale-110 duration-300">
-          <a class="cursor-pointer">Celebracion</a>
+          <a class="cursor-pointer" @click="navigateToSection('cele')">Celebracion</a>
         </li>
       </ul>
     </div>

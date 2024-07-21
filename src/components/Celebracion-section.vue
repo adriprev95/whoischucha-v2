@@ -1,5 +1,5 @@
 <template>
-  <div class="hero min-h-screen bg-cele">
+  <div class="hero min-h-screen bg-cele" id="cele">
     <div class="hero-overlay bg-opacity-60"></div>
     <div class="hero-content text-neutral-content text-center">
       <div class="max-w-md">
